@@ -48,7 +48,38 @@
     font-size: 13px;
  }
 
-  /*----------
+/*----------
     Main 
  ----------*/
+
+.conteiner-main{
+
+    background-color: lightcoral;
+    height: calc(100vh - 120px);
+    overflow: auto;
+    flex-wrap: wrap;
+}
+
+.miniatura{
+    width: calc(100% / 7);
+    background-color: black;
+    height: 200px;
+    border: 2px solid white;
+    margin: 40px 80px 40px 80px;
+    
+}
+ 
+
+
+
+
+
+/*----------
+    Footer 
+ ----------*/
+
+ .conteiner-footer{
+    background-color: gray;
+    height: 80px;
+ }
 
