@@ -102,7 +102,7 @@
  ----------*/
 
  .conteiner-footer{
-    background-color: gray;
+    background-color: black;
     height: 80px;
     align-items: center;
     justify-content: space-between;
@@ -127,4 +127,8 @@
  .arrow{
     align-items: center;
     padding: 5px;
+ }
+
+ .eccezione{
+    color: #44be01;
  }
