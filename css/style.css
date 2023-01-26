@@ -1,0 +1,54 @@
+/*----------
+    Reset 
+ ----------*/
+
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+ }
+
+ /*----------
+    Header 
+ ----------*/
+
+ .row{
+    display: flex;
+ }
+
+ .conteiner-header .row{
+    background-color: black;
+    height: 40px;
+    align-items: center;
+    justify-content: end;
+ }
+
+ .conteiner-logo ul {
+   color: white;
+   list-style-type: none;
+   
+   
+ }
+
+ li{
+    background-color: #4a4a4a;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+    font-size: 10px;
+
+ }
+
+ .fa-bars{
+    padding-right: 5px;
+ }
+
+ .fa-bars, .fa-maximize{
+    font-size: 13px;
+ }
+
+  /*----------
+    Main 
+ ----------*/
+
