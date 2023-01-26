@@ -104,5 +104,27 @@
  .conteiner-footer{
     background-color: gray;
     height: 80px;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
  }
 
+ .tasti{
+    padding:10px;
+    text-align: center;
+    
+ }
+
+ .icons{
+    font-size: 30px;
+    padding: 5px;
+ }
+
+ h3{
+    font-size: 13px;
+ }
+
+ .arrow{
+    align-items: center;
+    padding: 5px;
+ }
